@@ -1,2 +1,2 @@
 # travis-spinnaker-testing
-repository for testing travis ci tool and spinnaker cd
+Repository for testing travis and spinnaker ci/cd tools
